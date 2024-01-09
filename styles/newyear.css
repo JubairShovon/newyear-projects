@@ -1,0 +1,35 @@
+
+.happy{
+    font-family:'Merriweather', serif;
+    color: red;
+
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+
+
+}
+.new , .cele {
+    font-family: 'Merriweather', serif;
+    color: red;
+
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    padding: 205 344 205 205;
+
+}
+/*   banner */
+.banner{
+    background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+    background-size: auto;
+    background-image: wid;
+    padding: 0px 60px 60px 0px;
+    background-repeat: no-repeat;
+
+}
